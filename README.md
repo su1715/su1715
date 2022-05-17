@@ -1,6 +1,6 @@
 <div align="center">
   
-# SujeongPark
+# Sujeong Park
   
   <br/>
   <br/>
