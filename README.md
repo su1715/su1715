@@ -1,20 +1,51 @@
-# su1715
+<div align="center">
+  
+# SujeongPark
+  
+  <br/>
+  <br/>
+  
+**About Me**
+  
+Hello I'm Sujeong Park.
+  
+I'm Front-End Developer :)
+  
+I majored in computer science and
+  
+  am currently studying at 42seoul.
+  
+  <br/>
+  <br/>
 
-## profile
-name : 박수정 (Park Sujeong)
+**Tech Stack**
+  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
-## Tech Stack
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
+<br/>
+<br/>
+<br/>
+<br/>
 
-### baekjoon
+**Archive**
+
+<a scr="https://github.com/su1715"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a scr="https://velog.io/@sj_dev_js"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+
+<br/>
+<br/>
+
+**Problem Solving**
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=su1715)](https://solved.ac/su1715)
 
+</div>
 <!--
 **su1715/su1715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
