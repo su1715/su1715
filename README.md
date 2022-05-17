@@ -11,9 +11,9 @@ Hello I'm Sujeong Park.
   
 I'm Front-End Developer :)
   
-I majored in computer science and
+I majored in Computer Science and
   
-  am currently studying at 42seoul.
+  am currently studying at 42Seoul.
   
   <br/>
   <br/>
@@ -34,8 +34,8 @@ I majored in computer science and
 
 **Archive**
 
-<a scr="https://github.com/su1715"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a scr="https://velog.io/@sj_dev_js"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://github.com/su1715"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://velog.io/@sj_dev_js"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 <br/>
 <br/>
