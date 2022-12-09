@@ -40,6 +40,17 @@ I majored in Computer Science and
 <br/>
 <br/>
 
+**Project**
+
+**42gg** : 탁구 매칭 및 전적 확인 서비스
+
+[github](https://github.com/42organization/42arcade.gg.client)
+
+<img width=20% alt="main" src="https://user-images.githubusercontent.com/58678617/177509456-7f100bf1-cc36-4c46-ba2f-74188958e2ff.png">&nbsp;&nbsp;&nbsp;&nbsp;<img width=20% alt="match_after" src="https://user-images.githubusercontent.com/58678617/177514080-cb736512-589a-4399-88e5-881ebe16c31e.png">&nbsp;&nbsp;&nbsp;&nbsp;<img width=20% alt="rank" src="https://user-images.githubusercontent.com/58678617/177509873-7bab2146-3d5c-44a9-88b6-4b0b88ee296d.png">&nbsp;&nbsp;&nbsp;&nbsp;<img width=20% alt="user_me_edit" src="https://user-images.githubusercontent.com/58678617/177510173-97878100-3d5f-4e68-a767-f542f64196a5.png">
+
+<br/>
+<br/>
+
 **Problem Solving**
 
 [![Solved.ac
